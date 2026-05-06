@@ -1,0 +1,28 @@
+
+# STEP-BY-STEP GUIDE
+
+1. Extract the ZIP file.
+
+2. Open terminal inside project folder.
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the dashboard:
+streamlit run app.py
+
+5. Browser opens automatically.
+
+6. Upload entire project folder to GitHub.
+
+7. Deploy using Streamlit Cloud.
+
+The slideshow images load from space-themed Unsplash links.
+The dashboard contains:
+- ML benchmark table
+- CNN vs ANN comparison
+- 3D cosmic clustering
+- Feature importance graphs
+- Anomaly detection
+
+Because apparently humanity needed a cosmic Formula 1 race for machine learning models. Still, it looks pretty good.
